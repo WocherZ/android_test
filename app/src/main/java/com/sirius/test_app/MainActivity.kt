@@ -1,5 +1,8 @@
 package com.sirius.test_app
 
+import android.view.View
+import android.widget.ImageView
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
